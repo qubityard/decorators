@@ -1,2 +1,13 @@
  First change
 second change
+
+
+Hi My name is Vikash living in Rotterdam with my wife and a son. I am searching home for rent near to Optimistic international school as my son started school from this year. Currently I am working at ING bijlmer with salary of 5k net . This home look ok for me. Please let me know the next step for the same.
+
+kill port
+
+lsof -n -i4TCP:5000
+
+PID is the second field. Then, kill that process:
+
+kill -9 PID
